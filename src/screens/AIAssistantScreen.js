@@ -4,7 +4,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { COLORS } from '../utils/theme';
 
 // ⚠️ PASTE YOUR NEW GEMINI KEY BELOW (never share this key publicly)
-const GEMINI_KEY = 'AIzaSyCY58OBdfFlP8e-6_r1bWlQUjvO-urBf2o';
+const GEMINI_KEY = 'ANTHROPIC_API_KEY';
 
 const QUICK = [
   'What are my legal rights if harassed?',
